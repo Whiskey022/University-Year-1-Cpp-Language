@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1485876888 source:e:\programming\c++\uni\week4\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"book.h"
+	"bookpile.h"
+	"bookbot.h"
+
+1485876850 e:\programming\c++\uni\week4\book.h
+
+1485878061 e:\programming\c++\uni\week4\bookpile.h
+	"book.h"
+
+1485877663 e:\programming\c++\uni\week4\bookbot.h
+	"bookpile.h"
+
+1485877819 source:e:\programming\c++\uni\week4\bookbot.cpp
+	<iostream>
+	<vector>
+	<string>
+	"bookbot.h"
+

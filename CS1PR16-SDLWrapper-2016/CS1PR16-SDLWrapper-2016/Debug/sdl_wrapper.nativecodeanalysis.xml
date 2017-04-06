@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\programming\c++\uni\cs1pr16-sdlwrapper-2016\cs1pr16-sdlwrapper-2016\</FILEPATH>
+      <FILENAME>sdl_wrapper.c</FILENAME>
+      <LINE>90</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>GetRGBValues</FUNCTION>
+    <DECORATED>GetRGBValues</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\programming\c++\uni\cs1pr16-sdlwrapper-2016\cs1pr16-sdlwrapper-2016\</FILEPATH>
+      <FILENAME>sdl_wrapper.c</FILENAME>
+      <LINE>128</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>GetRGBAValues</FUNCTION>
+    <DECORATED>GetRGBAValues</DECORATED>
+    <FUNCLINE>110</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\programming\c++\uni\cs1pr16-sdlwrapper-2016\cs1pr16-sdlwrapper-2016\</FILEPATH>
+      <FILENAME>sdl_wrapper.c</FILENAME>
+      <LINE>167</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>SetRGBValues</FUNCTION>
+    <DECORATED>SetRGBValues</DECORATED>
+    <FUNCLINE>147</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\programming\c++\uni\cs1pr16-sdlwrapper-2016\cs1pr16-sdlwrapper-2016\</FILEPATH>
+      <FILENAME>sdl_wrapper.c</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>SetRGBAValues</FUNCTION>
+    <DECORATED>SetRGBAValues</DECORATED>
+    <FUNCLINE>184</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\programming\c++\uni\cs1pr16-sdlwrapper-2016\cs1pr16-sdlwrapper-2016\</FILEPATH>
+      <FILENAME>sdl_wrapper.c</FILENAME>
+      <LINE>266</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>ResizeWindow</FUNCTION>
+    <DECORATED>ResizeWindow</DECORATED>
+    <FUNCLINE>260</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\programming\c++\uni\cs1pr16-sdlwrapper-2016\cs1pr16-sdlwrapper-2016\</FILEPATH>
+      <FILENAME>sdl_wrapper.c</FILENAME>
+      <LINE>316</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>DisplaySurface</FUNCTION>
+    <DECORATED>DisplaySurface</DECORATED>
+    <FUNCLINE>309</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

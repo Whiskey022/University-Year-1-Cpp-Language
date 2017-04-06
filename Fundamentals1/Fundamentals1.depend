@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1489444825 source:e:\programming\c++\uni\fundamentals1\main.cpp
+	<iostream>
+	<limits>
+	<cmath>
+	<cstdlib>
+	<array>
+	<chrono>
+

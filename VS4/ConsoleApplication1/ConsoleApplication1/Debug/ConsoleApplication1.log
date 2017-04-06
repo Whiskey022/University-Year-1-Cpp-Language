@@ -1,0 +1,61 @@
+﻿  bookbot.cpp
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(61): error C2143: syntax error: missing ';' before '<'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(61): error C2238: unexpected token(s) preceding ';'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(12): error C2065: 'books': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(12): error C2228: left of '.push_back' must have class/struct/union
+  e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(12): note: type is 'unknown-type'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(18): error C2065: 'books': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(18): error C2228: left of '.size' must have class/struct/union
+  e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(18): note: type is 'unknown-type'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(20): error C2065: 'books': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(20): error C2228: left of '.pop_back' must have class/struct/union
+  e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(20): note: type is 'unknown-type'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(23): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(29): error C2065: 'books': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(29): error C2228: left of '.size' must have class/struct/union
+  e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(29): note: type is 'unknown-type'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(30): error C2065: 'books': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(30): error C2228: left of '.size' must have class/struct/union
+  e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(30): note: type is 'unknown-type'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(33): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(41): error C2065: 'books': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(41): error C2228: left of '.size' must have class/struct/union
+  e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(41): note: type is 'unknown-type'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(42): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(44): error C2065: 'books': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(44): error C2228: left of '.size' must have class/struct/union
+  e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(44): note: type is 'unknown-type'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(45): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(45): error C2065: 'books': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(45): error C2228: left of '.title' must have class/struct/union
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(45): error C2228: left of '.author' must have class/struct/union
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(45): error C2228: left of '.category' must have class/struct/union
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(50): error C2065: 'books': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(50): error C2228: left of '.size' must have class/struct/union
+  e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(50): note: type is 'unknown-type'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(55): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(55): error C2065: 'books': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(55): error C2228: left of '.title' must have class/struct/union
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(55): error C2228: left of '.author' must have class/struct/union
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(56): error C2065: 'books': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookpile.h(56): error C2228: left of '.category' must have class/struct/union
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.h(13): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.h(18): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.h(35): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.h(52): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.h(55): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.cpp(5): error C2084: function 'bool BookBot::PickUpBook(BookPile &)' already has a body
+  e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.h(10): note: see previous definition of 'PickUpBook'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.cpp(8): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.cpp(13): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.cpp(27): error C2084: function 'bool BookBot::PlaceDownBook(BookPile &)' already has a body
+  e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.h(32): note: see previous definition of 'PlaceDownBook'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.cpp(30): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.cpp(44): error C2084: function 'void BookBot::ListContents(void)' already has a body
+  e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.h(49): note: see previous definition of 'ListContents'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.cpp(47): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.cpp(50): error C2065: 'cout': undeclared identifier
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.cpp(52): error C2059: syntax error: 'protected'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.cpp(54): error C2059: syntax error: '}'
+e:\programming\c++\uni\vs4\consoleapplication1\consoleapplication1\bookbot.cpp(54): error C2143: syntax error: missing ';' before '}'

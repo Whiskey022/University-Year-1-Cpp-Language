@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1486067984 source:e:\programming\c++\uni\week5\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	"book.h"
+	"bookpile.h"
+	"bookbot.h"
+	"bookdrop.h"
+	"storagepile.h"
+
+1485213251 e:\programming\c++\uni\week5\book.h
+
+1485879334 e:\programming\c++\uni\week5\bookpile.h
+
+1485878566 e:\programming\c++\uni\week5\bookbot.h
+
+1485879526 e:\programming\c++\uni\week5\bookdrop.h
+
+1485879716 e:\programming\c++\uni\week5\storagepile.h
+
+1486068281 source:e:\programming\c++\uni\week5\bookbot.cpp
+	<iostream>
+	<vector>
+	"book.h"
+	"bookpile.h"
+	"bookbot.h"
+
+1485879413 source:e:\programming\c++\uni\week5\bookpile.cpp
+	<iostream>
+	<vector>
+	"book.h"
+	"bookpile.h"
+	"bookbot.h"
+	"bookdrop.h"
+	"storagepile.h"
+
+1485882767 source:e:\programming\c++\uni\week5\bookdrop.cpp
+	<iostream>
+	<vector>
+	"book.h"
+	"bookpile.h"
+	"bookbot.h"
+	"bookdrop.h"
+	"storagepile.h"
+
+1485879699 source:e:\programming\c++\uni\week5\storagepile.cpp
+	<iostream>
+	<vector>
+	"book.h"
+	"bookpile.h"
+	"bookbot.h"
+	"bookdrop.h"
+	"storagepile.h"
+
